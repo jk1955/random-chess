@@ -3082,10 +3082,10 @@
   "resolved" "https://registry.npmjs.org/chess.js/-/chess.js-0.11.0.tgz"
   "version" "0.11.0"
 
-"chessboardjsx@^2.4.2":
-  "integrity" "sha512-nVPRmE/peE5e+Pscz0DJVWPli2Q7fg6d8YQfqMfr21oIzOwswX5kUF+Fl1ZthKk6KD5qey0YJ0v+LTLmxCTtRQ=="
-  "resolved" "https://registry.npmjs.org/chessboardjsx/-/chessboardjsx-2.4.2.tgz"
-  "version" "2.4.2"
+"chessboardjsx@^2.4.7":
+  "integrity" "sha512-cJN06EWkrRPSQhOFEbw16zL5D9N6jYs29N2gG0IzSDhDpzWyHaTfUcLq/7e0moZ5Pr7m7vbhEyKuw8/lV22YOA=="
+  "resolved" "https://registry.npmjs.org/chessboardjsx/-/chessboardjsx-2.4.7.tgz"
+  "version" "2.4.7"
   dependencies:
     "deep-diff" "1.0.1"
     "lodash.isequal" "4.5.0"
